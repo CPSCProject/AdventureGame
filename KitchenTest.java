@@ -181,6 +181,7 @@ public boolean KitchenExplore(String finput, String cinput, String c )
       System.out.print("Enter a digit code: ");
       String code = c;
       System.out.println(code);
+	System.out.print("hi");
 
       if(code.equals("345"))
       {
